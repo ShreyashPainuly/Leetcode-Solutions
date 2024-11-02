@@ -14,6 +14,10 @@
 // Input: list1 = [], list2 = [0]
 // Output: [0]
 
+//Approach : Pointers Game
+//T.C : O(n)
+//S.C : O(1)
+
 class Solution {
 public:
     ListNode* solve(ListNode* list1, ListNode* list2) {
